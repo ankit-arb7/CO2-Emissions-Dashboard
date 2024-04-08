@@ -17,7 +17,7 @@ In addition to visualizing CO2 emissions data, this project involved data analys
 
 ### Project Components:
 
-- **Data Source:** https://ourworldindata.org/co2-and-greenhouse-gas-emissions
+- **Data Source:** https://ourworldindata.org/co2-and-greenhouse-gas-emissions (Raw file name: owid-co2-data.xlsx)
 - **Live Dashboard:** [Link to live dashboard](https://public.tableau.com/views/GlobalCO2EmissionDashboard_17126066439380/FinalDashboard?:language=en-US&:sid=&:display_count=n&:origin=viz_share_link)
 - **GitHub Repository:** https://github.com/ankit-arb7/CO2-Emissions-Dashboard
 
